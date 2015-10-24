@@ -21,7 +21,8 @@ Feel free to contact us if you have any questions.
 - Security of data exchange of server and app should be enhanced.
 
 # Screenshots
-Push 新分支
+# Push 新分支
+<img width="300" height="500" src="screenshots/splash.png" />
 <img width="300" height="500" src="screenshots/splash.png" />
 <img width="300" height="500" src="screenshots/register.png" />
 <img width="300" height="500" src="screenshots/signin.png" />
